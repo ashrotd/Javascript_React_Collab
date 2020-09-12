@@ -57,8 +57,8 @@ function deleteItem(index) {
     localStorage.setItem('notes', JSON.stringify(notesObj));
     showNotes();
 }
-/*let search = document.getElementById('search');
-search.addEventListener('input', function () {
+let search = document.getElementById('search');
+/*search.addEventListener('input', function () {
    let inputVal = search.value.toLowerCase();
    let notecard = document.getElementById('notecard');
    Array.from(notecard).forEach(function (element) {
