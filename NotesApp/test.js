@@ -1,3 +1,4 @@
+alert('Welcome')
 console.log('NotesApp')
 showNotes();
 let addBtn = document.getElementById('addBtn');
