@@ -1,10 +1,54 @@
+<<<<<<< HEAD
 body {
     max-width: 600px;
     margin: auto;
 }
 .title {
+=======
+body{
+    max-width: 600px;
+    margin: auto;
+}
+.title{
+>>>>>>> fc1c51d... API integrated
     font-size: 20px;
     color: green;
     font-weight: bold;
     padding-top: 10px;
+<<<<<<< HEAD
+=======
+}
+.image{
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    padding-top: 10px;
+}
+.contnet{
+    font-size: 16px;
+
+}
+.news-fotter{
+    display: flex;
+    justify-content:space-between;
+}
+.news-fotter div{
+    font-size: 12px;
+    color: rgba(59, 59, 59, 0.87);
+}
+.error{
+    background: rgba(254, 0, 0, 0.22);
+    padding: 30px;
+    margin: auto;
+    text-align: center;
+    display: block;
+}
+.error button{
+    padding: 10px;
+    background: red;
+    color: white;
+}
+a{
+    text-decoration: none;
+>>>>>>> fc1c51d... API integrated
 }
