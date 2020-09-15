@@ -1,0 +1,10 @@
+body {
+    max-width: 600px;
+    margin: auto;
+}
+.title {
+    font-size: 20px;
+    color: green;
+    font-weight: bold;
+    padding-top: 10px;
+}
